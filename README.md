@@ -1,10 +1,9 @@
-## Welcome to my Github Page !
+## 👋🏻 Welcome to my Github Page, I'm Rayna !
 
-My name is Rayna Maruyama. I am a recent graduate with a bachelor’s degree in computer science at California State University, Long Beach (CSULB).
+👩🏻‍🎓 Recent graduate with a Bachelor’s Degree in Computer Science at California State University, Long Beach (CSULB) <br> 👩🏻‍💻 Currently developing my own webpage (In-progress)
 
----
 
-### What I do?
+### 💻 Tech Stack:
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=black&style=for-the-badge" />
@@ -24,11 +23,11 @@ My name is Rayna Maruyama. I am a recent graduate with a bachelor’s degree in 
 </p>
 
 
-### Github Stats
+### 📊 Github Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayna2335&layout=compact&langs_count=8&border_color=ffffff&count_private=true&title_color=ffffff&bg_color=242424&text_color=ffffff" 
        style="border: 2px solid white; border-radius: 8px;" />
 
-### Socials
+### 👤 Socials
 <a href="https://www.linkedin.com/in/rayna-maruyama" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
