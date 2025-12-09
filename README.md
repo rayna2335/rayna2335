@@ -23,10 +23,6 @@
 </p>
 
 
-### 📊 Github Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayna2335&layout=compact&langs_count=8&border_color=ffffff&count_private=true&title_color=ffffff&bg_color=242424&text_color=ffffff" 
-       style="border: 2px solid white; border-radius: 8px;" />
-
 ### 👤 Socials
 <a href="https://www.linkedin.com/in/rayna-m/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
