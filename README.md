@@ -1,6 +1,7 @@
 ## 👋🏻 Welcome to my Github Page, I'm Rayna !
 
-👩🏻‍🎓 Recent graduate with a Bachelor’s Degree in Computer Science at California State University, Long Beach (CSULB) <br> 👩🏻‍💻 Currently developing my own webpage (In-progress)
+👩🏻‍🎓 I graduated from California State University, Long Beach, with a B.A. in Computer Science. I am studying and focusing on Full-Stack Development, as well as being vigilant with different security vulnerabilities and measures to take. For Full-stack Development, I use JavaScript, HTML, and CSS. Lastly, currently completing my CompTIA Security+ certification to strengthen my understanding of modern technology practices. <br>
+
 
 
 ### 💻 Tech Stack:
