@@ -28,7 +28,7 @@
        style="border: 2px solid white; border-radius: 8px;" />
 
 ### 👤 Socials
-<a href="www.linkedin.com/in/rayna-m" target="_blank">
+<a href="https://www.linkedin.com/in/rayna-m/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
